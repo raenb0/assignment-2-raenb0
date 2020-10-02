@@ -1,0 +1,16 @@
+---
+title: "Rink_Assignment2"
+author: "Rink"
+date: "10/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I like k9's
+
+* My dog loves mountain biking
+
+* though she's getting old now and a bit slow!
