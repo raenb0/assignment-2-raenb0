@@ -9,13 +9,12 @@ A title
 
 [Rachel Neugarten](https://github.com/raenb0)
 
+![Curu](C:/Users/raenb/Pictures/Curu/Curu_snow.jpg)
+
+
 ![Curu][id]
-
-
 
 
 [Rink Tacoma](https://github.com/rt464)
 
-
-[id]: C:\Users\raenb\Pictures\Curu\Curu_snow.jpg "Curu"
 

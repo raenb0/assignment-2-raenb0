@@ -6,4 +6,12 @@ navbar:
     - text: "Rachel"
       href: Rachel.html
     - text: "Rink"
-      href: Rink_Assignment2.html  
+      href: Rink_Assignment2.html
+      
+output_dir: "."
+output:
+  html_document:
+    theme: darkly
+    highlight: textmate
+    toc: true 
+    toc_float: true 
