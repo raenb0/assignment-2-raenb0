@@ -1,7 +1,5 @@
 ---
-title: "Rachel and Rink's Dog website"
-author: "Rachel Neugarten"
-date: "10/2/2020"
+title: "Rachel and Rink's Dogs"
 output: html_document
 ---
 
@@ -12,5 +10,7 @@ output: html_document
 
 
 [Rink Tacoma](https://github.com/rt464)
+
+![Kiwi](images/Kiwi_leaves.jpg)
 
 

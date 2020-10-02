@@ -3,9 +3,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Rachel"
+    - text: "Curu"
       href: Rachel.html
-    - text: "Rink"
+    - text: "Kiwi"
       href: Rink_Assignment2.html
 output:
   html_document:

@@ -1,12 +1,14 @@
 ---
-title: "Rachel"
+title: "Curu"
 author: "Rachel Neugarten"
 date: "10/2/2020"
 output: html_document
 ---
 
-* I like mutts
+* My name means "fox" in Gaelic. I was named after a talking fox in my human's favorite childhood book, [The Hounds of the Morrigan](https://www.goodreads.com/book/show/13843.The_Hounds_of_the_M_rr_gan). 
 
-* My dog is learning agility (but not very well)
+* I am learning agility! But sometimes I still [make mistakes.](https://photos.app.goo.gl/pBp9V2cC59izU4eD8)
 
-* She wakes me up at 5:30 am
+*My favorite thing to do is to go trail running with my human, because sometimes I get to CHASE SQUIRRELS!
+
+<iframe src="https://giphy.com/embed/NoHe3HpB1Mg8w" width="480" height="276" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/movie-up-NoHe3HpB1Mg8w">via GIPHY</a></p>
