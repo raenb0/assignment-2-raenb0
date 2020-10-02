@@ -1,0 +1,12 @@
+---
+title: "Rachel"
+author: "Rachel Neugarten"
+date: "10/2/2020"
+output: html_document
+---
+
+* I like mutts
+
+* My dog is learning agility (but not very well)
+
+* She wakes me up at 5:30 am
