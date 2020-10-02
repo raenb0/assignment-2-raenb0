@@ -12,9 +12,6 @@ A title
 ![Curu](C:/Users/raenb/Pictures/Curu/Curu_snow.jpg)
 
 
-![Curu][id]
-
-
 [Rink Tacoma](https://github.com/rt464)
 
 
