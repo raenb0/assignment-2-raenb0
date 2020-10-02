@@ -5,9 +5,8 @@ date: "10/2/2020"
 output: html_document
 ---
 
-A title
-
 [Rachel Neugarten](https://github.com/raenb0)
+
 
 ![Curu](images/Curu_snow.jpg)
 
