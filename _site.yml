@@ -7,9 +7,11 @@ navbar:
       href: Rachel.html
     - text: "Kiwi"
       href: Rink_Assignment2.html
+    - text: "Rachel CV"
+      href: CV_Rachel.html
 output:
   html_document:
     theme: darkly
     highlight: textmate
-    toc: true 
-    toc_float: true 
+    toc: true
+    toc_float: true

@@ -1,0 +1,45 @@
+---
+title: "Rachel Neugarten"
+---
+
+
+> I'd rather laugh with the sinners than cry with the saints--the sinners are much more fun. - Billy Joel
+
+---------------------------------------------
+
+## EDUCATION
+
+1. B.A. Columbia University **2004**
+
+   + GPA: 3.7  #how do I get this to be a number instead of a bullet?
+
+   + Thesis: Impact of environmental education on knowledge and attitudes of students in Margarita Island, Venezuela
+
+1. M.S. Cornell University, Natural Resources **2010**
+
+   + GPA: 4.0
+
+   + Thesis: Working Forests in the Adirondacks
+
+1. PhD (ongoing) Cornell University, Natural Resources **2019-present**
+
+---------------------------------------------
+
+## EMPLOYMENT
+
+* Director of Conservation Priority Setting, Conservation International **2011-2019**
+
+* Conservation Information Specialist, The Nature Conservancy **2004-2008**
+
+    + Helped develop Miradi software
+
+    + Supported teams in the application of the Open Standards for the Practice of Conservation^[https://cmp-openstandards.org/>]
+    
+---------------------------------------------
+
+## PUBLICATIONS
+
+Year  | Title
+------------- | -------------
+2020  | Trends in protected area representation of biodiversity and ecosystem services in five tropical countries
+2018  | Tools for measuring, modelling, and valuing ecosystem services: guidance for Key Biodiversity Areas, natural World Heritage sites, and protected areas

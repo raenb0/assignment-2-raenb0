@@ -1,7 +1,12 @@
 ---
 title: "Rachel and Rink's Dogs"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
 ---
+
+## Name
 
 [Rachel Neugarten](https://github.com/raenb0)
 
